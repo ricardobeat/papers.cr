@@ -1,0 +1,30 @@
+html, textarea, button {
+    font-family: Georgia, serif;
+    font-size: 16px;
+    color: #444;
+    line-height: 1.5;
+    background: #fafafa;
+}
+
+body {
+	max-width: 820px;
+	margin: 0 auto;
+}
+
+#pad {
+	border: 0;
+	color: #444;
+	font-family: Georgia, serif;
+	padding: 2em;
+	width: 720px;
+	margin: 0 auto;
+	min-height: 80vh;
+}
+
+#submit {
+	display: block;
+	clear: both;
+	border: 1px solid #444;
+	border-radius: 5px;
+	padding: 0.5em 1em;
+}
